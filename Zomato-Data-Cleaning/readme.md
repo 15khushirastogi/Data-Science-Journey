@@ -21,7 +21,7 @@ The main goal was to explore raw data, identify inconsistencies, and apply clean
 
 ## 📌 Dataset
 
-- Source: [Airbnb Kaggle Dataset](https://www.kaggle.com/datasets/rishikeshkonapure/zomato)
+- Source: [Zomato Kaggle Dataset](https://www.kaggle.com/datasets/rishikeshkonapure/zomato)
 
 ⚠️ Note: Raw data is not uploaded due to Kaggle’s policy. Use the link above to download.
 
